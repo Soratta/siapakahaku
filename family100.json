@@ -290,5 +290,161 @@
     {
         "soal": "Sebutkan 7 nama jenis buah yang sering dijadikan jus.",
         "jawaban": ["Jeruk", "Apel", "Strawberry", "Mangga", "Nanas", "Anggur", "Melon"]
+    },
+    {
+        "soal": "Sebutkan 5 judul anime shounen populer.",
+        "jawaban": ["Naruto", "One Piece", "Dragon Ball Z", "Attack on Titan", "My Hero Academia"]
+    },
+    {
+        "soal": "Apa saja 8 nama karakter utama dalam anime Naruto?",
+        "jawaban": ["Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake", "Itachi Uchiha", "Jiraiya", "Gaara", "Hinata Hyuga"]
+    },
+    {
+        "soal": "Sebutkan 6 judul anime isekai yang populer.",
+        "jawaban": ["Sword Art Online", "Re:Zero − Starting Life in Another World", "Overlord", "No Game No Life", "Konosuba: God's Blessing on This Wonderful World!", "The Rising of the Shield Hero"]
+    },
+    {
+        "soal": "Apa saja 7 nama karakter dalam anime Attack on Titan?",
+        "jawaban": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman", "Erwin Smith", "Annie Leonhart", "Jean Kirstein"]
+    },
+    {
+        "soal": "Sebutkan 5 judul anime slice of life yang populer.",
+        "jawaban": ["Clannad", "Your Lie in April", "Toradora!", "Anohana: The Flower We Saw That Day", "March Comes in Like a Lion"]
+    },
+    {
+        "soal": "Apa saja 8 nama karakter dalam anime One Piece?",
+        "jawaban": ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Franky"]
+    },
+    {
+        "soal": "Sebutkan 6 judul anime mecha yang populer.",
+        "jawaban": ["Neon Genesis Evangelion", "Gurren Lagann", "Code Geass", "Mobile Suit Gundam", "Darling in the Franxx", "Aldnoah.Zero"]
+    },
+    {
+        "soal": "Apa saja 7 nama karakter dalam anime My Hero Academia?",
+        "jawaban": ["Izuku Midoriya", "Katsuki Bakugo", "Shoto Todoroki", "Ochaco Uraraka", "Tenya Iida", "All Might", "Endeavor"]
+    },
+    {
+        "soal": "Sebutkan 5 judul anime romance yang populer.",
+        "jawaban": ["Your Name", "Clannad: After Story", "Kimi ni Todoke", "Toradora!", "The Pet Girl of Sakurasou"]
+    },
+    {
+        "soal": "Apa saja 8 nama karakter dalam anime Dragon Ball Z?",
+        "jawaban": ["Goku", "Vegeta", "Gohan", "Piccolo", "Trunks", "Frieza", "Cell", "Majin Buu"]
+    },
+    {
+        "soal": "Sebutkan 6 judul anime action yang populer.",
+        "jawaban": ["Fullmetal Alchemist: Brotherhood", "Cowboy Bebop", "Tokyo Ghoul", "Death Note", "Bleach", "Hunter x Hunter"]
+    },
+    {
+        "soal": "Apa saja 7 nama karakter dalam anime Fullmetal Alchemist: Brotherhood?",
+        "jawaban": ["Edward Elric", "Alphonse Elric", "Roy Mustang", "Winry Rockbell", "Riza Hawkeye", "Scar", "Maes Hughes"]
+    },
+    {
+        "soal": "Sebutkan 5 judul anime adventure yang populer.",
+        "jawaban": ["One Piece", "Hunter x Hunter", "Made in Abyss", "Fairy Tail", "Nanatsu no Taizai (The Seven Deadly Sins)"]
+    },
+    {
+        "soal": "Apa saja 8 nama karakter dalam anime Naruto?",
+        "jawaban": ["Naruto Uzumaki", "Sasuke Uchiha", "Sakura Haruno", "Kakashi Hatake", "Itachi Uchiha", "Jiraiya", "Gaara", "Hinata Hyuga"]
+    },
+    {
+        "soal": "Sebutkan 6 judul anime supernatural yang populer.",
+        "jawaban": ["Death Note", "Tokyo Ghoul", "Attack on Titan", "Blue Exorcist", "Noragami", "Soul Eater"]
+    },
+    {
+        "soal": "Apa saja 7 nama karakter dalam anime Death Note?",
+        "jawaban": ["Light Yagami", "L", "Ryuk", "Misa Amane", "Near", "Mello", "Teru Mikami"]
+    },
+    {
+        "soal": "Sebutkan 5 karakter playable (pengendali) dalam Genshin Impact.",
+        "jawaban": ["hutao", "ayaka", "ganyu", "xiao", "raiden shogun"]
+    },
+    {
+        "soal": "Apa saja 8 elemen dalam Genshin Impact?",
+        "jawaban": ["Pyro", "Hydro", "Anemo", "Electro", "Dendro", "Cryo", "Geo", "Archon"]
+    },
+    {
+        "soal": "Sebutkan 6 nama kota atau wilayah dalam Genshin Impact.",
+        "jawaban": ["Mondstadt", "Liyue Harbor", "Inazuma", "Sumeru", "Fontaine", "Natlan"]
+    },
+    {
+        "soal": "Sebutkan Cawapres 2024",
+        "jawaban": ["Prabowogibran", "aniesmuhaimin", "ganjarmahfud"]
+    },
+    {
+        "soal": "Merek HP Terkenal",
+        "jawaban": ["Apple", "samsung", "Infinix", "oppo", "xiaomi", "nokia"]
+    },
+    {
+        "soal": "Negara terpanas di dunia",
+        "jawaban": ["Bekasi", "Afrika", "iraq", "iran", "zimbabwe"]
+    },
+    {
+        "soal": "apa yang dilakukan ketika bab lama",
+        "jawaban": ["Main hp", "main bidet", "main air", "main gayung", "nyanyi", "ngeden"]
+    },
+    {
+        "soal": "apa yang dilakukan ketika tidak bisa tidur",
+        "jawaban": ["Main hp", "membayangkan domba lompat pagar", "belajar", "pmo", "dengerin musik", "bergadang"]
+    },
+    {
+        "soal": "apa yang dilakukan ketika bab lama",
+        "jawaban": ["Main hp", "main bidet", "main air", "main gayung", "nyanyi", "ngeden"]
+    },
+    {
+        "soal": "Rumus matematika terkenal",
+        "jawaban": ["Rumus Kuadrat", "Rumus Trigonometri Dasar", "Rumus Eksponensial dan Logaritma", "Rumus Pythagoras", "Persamaan Lingkaran"]
+    },
+    {
+        "soal": "Kesukaan Mr.Ambatukam",
+        "jawaban": ["menjadi ambatron","bilang ambasing","bilang omaygot","bilang ambatublow","berteman dengan Mr.kakangku"]
+    },
+    {
+        "soal": "Merk baju",
+        "jawaban": ["Uniqlo", "Erigo", "Bluesville", "zara", "nike","adidas"]
+    },
+    {
+        "soal": "Top Tier Waifu 2024",
+        "jawaban": ["Fern", "Freien", "MaoMao", "Anna Yamada", "Honami Ichinose","Hiyori Shiina"]
+    },
+    {
+        "soal": "Top Tier Blue Archive",
+        "jawaban": ["ako", "Fuuka", "Iori", "Hoshino", "Mika","Kazusa"]
+    },
+    {
+        "soal": "Merek laptop",
+        "jawaban": ["aSUS", "Acer", "Dell", "Apple", "Advan","Lenovo"]
+    },
+    {
+        "soal": "Mengapa orang suka bermain blue archive",
+        "jawaban": ["Gameplay seru", "story bagus", "bukan game kikir", "fandom unik", "anak ke-"]
+    },
+    {
+        "soal": "Macam-macam Game Kikir",
+        "jawaban": ["Genshin Impact"]
+    },
+    {
+        "soal": "Merek monitor",
+        "jawaban": ["View Sonic", "Koorui", "Xiaomi", "HP", "gigabyte"]
+    },
+    {
+        "soal": "Cara masuk universitas negeri",
+        "jawaban": ["Jalur Undangan", "Jalur SNBP", "Jalur SNBT", "Jalur Mandiri"]
+    },
+    {
+        "soal": "Merek sandal karet paling terkenal",
+        "jawaban": ["swallow"]
+    },
+    {
+        "soal": "Game Moba Mobile terkenal",
+        "jawaban": ["Mobile legends","League of Legends Wild Rift","Arena Of Valor"]
+    },
+    {
+        "soal": "Character yang paling banyak di sukai di game Blue Archive",
+        "jawaban": ["Hina","Hina","Hina"]
+    },
+    {
+        "soal": "Cara menjadi hacker di indonesia",
+        "jawaban": ["memakai topeng anonymous","menginstall termux di smartphone","memsang pp anonymous"]
     }
 ]
