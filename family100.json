@@ -172,10 +172,6 @@
         "jawaban": ["Ikan hiu", "Lumba-lumba", "Ikan paus", "Penyu", "Kepiting", "Lobster", "Ikan kerapu", "Ikan tuna", "Ikan pari", "Udang"]
     },
     {
-        "soal": "Apa saja 7 nama jenis mobil SUV?",
-        "jawaban": ["Toyota Fortuner", "Honda CR-V", "Nissan X-Trail", "Mitsubishi Pajero Sport", "Ford Everest", "Hyundai Santa Fe", "Kia Sorento"]
-    },
-    {
         "soal": "Sebutkan 6 nama jenis bunga mawar.",
         "jawaban": ["Mawar merah", "Mawar putih", "Mawar pink", "Mawar biru", "Mawar ungu", "Mawar kuning"]
     },
@@ -446,5 +442,129 @@
     {
         "soal": "Cara menjadi hacker di indonesia",
         "jawaban": ["memakai topeng anonymous","menginstall termux di smartphone","memsang pp anonymous"]
+    },
+    {
+        "soal": "Dag dig dug hatiku",
+        "jawaban": ["Saat aromamu lewati hidungku", "Melotot mataku", "Melihatmu lewat di depanku"]
+    },
+    {
+        "soal": "Ciri-ciri sepuh",
+        "jawaban": ["Merendah sampai ke inti bumi", "selalu meminta saran", "tidak mau diakui sepuh"]
+    },
+    {
+        "soal": "Universitas dengan banyak peminat (singkatan)",
+        "jawaban": ["UI", "UGM", "ITB", "IPB", "UNPAD", "UPN", "UM", "UNS"]
+    },
+    {
+        "soal": "Universitas dengan banyak peminat (singkatan)",
+        "jawaban": ["UI", "UGM", "ITB", "IPB", "UNPAD", "UPN", "UM", "UNS"]
+    },
+    {
+        "soal": "Sekolah swasta yang paling terkenal",
+        "jawaban": ["Penabur","al azhar","binus","labsschool"]
+    },
+    {
+        "soal": "Sunyi dan sepi",
+        "jawaban": ["Di ruang hampa","Masalah datang dan pergi sudah biasa","Sendiri lagi","Enggan untuk melangkah"]
+    },
+    {
+        "soal": "Sunyi dan sepi",
+        "jawaban": ["Di ruang hampa","Masalah datang dan pergi sudah biasa","Sendiri lagi","Enggan untuk melangkah"]
+    },
+    {
+        "soal": "Nama-nama bulan dalam satu tahun",
+        "jawaban": ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"]
+    },
+    {
+        "soal": "Nama-nama hari dalam satu minggu",
+        "jawaban": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
+    },
+    {
+        "soal": "Perlengkapan Sekolah Anak Tk",
+        "jawaban": [
+            "pensil",
+            "botol minum",
+            "pensil warna",
+            "sapu tangan",
+            "hapusan",
+            "buku"
+        ]
+    },
+    {
+        "soal": "Disaat Apa Saja Orang Membawa Kamera",
+        "jawaban": [
+            "ulang tahun",
+            "pesta",
+            "pernikahan",
+            "piknik",
+            "wisuda",
+            "reuni",
+            "arisan",
+            "gathering"
+        ]
+    },
+    {
+        "soal": "Warna Cat Rambut",
+        "jawaban": [
+            "merah",
+            "kuning",
+            "coklat",
+            "hijau",
+            "ungu",
+            "emas",
+            "perak"
+        ]
+    },
+    {
+        "soal": "Orang Mengernyitkan Alisnya Karena",
+        "jawaban": [
+            "berpikir",
+            "bingung",
+            "terkejut",
+            "heran"
+        ]
+    },
+    {
+        "soal": "Merk Helm",
+        "jawaban": [
+            "kyt",
+            "ink",
+            "bmc",
+            "index",
+            "agv"
+        ]
+    },
+    {
+        "soal": "Sebelum Tidur Aku",
+        "jawaban": [
+            "cuci kaki",
+            "cuci tangan",
+            "cuci muka",
+            "gosok gigi",
+            "minum susu",
+            "menguap",
+            "berdoa",
+            "cium anjing",
+            "membaca",
+            "merokok"
+        ]
+    },
+        "soal": "Macam Tiang",
+        "jawaban": [
+            "listrik",
+            "jemuran",
+            "bendera",
+            "lampu",
+            "telepon"
+        ]
+    },
+    {
+        "soal": "Apa Yang Biasanya Dilakukan Ibu Dan Putrinya Bersama-Sama",
+        "jawaban": [
+            "tamasya",
+            "nonton tv",
+            "belanja",
+            "ngobrol"
+        ]
     }
 ]
