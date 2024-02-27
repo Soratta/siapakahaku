@@ -479,92 +479,53 @@
         "soal": "Nama-nama hari dalam satu minggu",
         "jawaban": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
     },
+    [
     {
         "soal": "Perlengkapan Sekolah Anak Tk",
-        "jawaban": [
-            "pensil",
-            "botol minum",
-            "pensil warna",
-            "sapu tangan",
-            "hapusan",
-            "buku"
-        ]
+        "jawaban": ["pensil", "botol minum", "pensil warna", "sapu tangan", "hapusan", "buku"]
     },
     {
         "soal": "Disaat Apa Saja Orang Membawa Kamera",
-        "jawaban": [
-            "ulang tahun",
-            "pesta",
-            "pernikahan",
-            "piknik",
-            "wisuda",
-            "reuni",
-            "arisan",
-            "gathering"
-        ]
+        "jawaban": ["ulang tahun", "pesta", "pernikahan", "piknik", "wisuda", "reuni", "arisan", "gathering"]
     },
     {
         "soal": "Warna Cat Rambut",
-        "jawaban": [
-            "merah",
-            "kuning",
-            "coklat",
-            "hijau",
-            "ungu",
-            "emas",
-            "perak"
-        ]
+        "jawaban": ["merah", "kuning", "coklat", "hijau", "ungu", "emas", "perak"]
     },
     {
         "soal": "Orang Mengernyitkan Alisnya Karena",
-        "jawaban": [
-            "berpikir",
-            "bingung",
-            "terkejut",
-            "heran"
-        ]
+        "jawaban": ["berpikir", "bingung", "terkejut", "heran"]
     },
     {
         "soal": "Merk Helm",
-        "jawaban": [
-            "kyt",
-            "ink",
-            "bmc",
-            "index",
-            "agv"
-        ]
+        "jawaban": ["kyt", "ink", "bmc", "index", "agv"]
     },
     {
         "soal": "Sebelum Tidur Aku",
-        "jawaban": [
-            "cuci kaki",
-            "cuci tangan",
-            "cuci muka",
-            "gosok gigi",
-            "minum susu",
-            "menguap",
-            "berdoa",
-            "cium anjing",
-            "membaca",
-            "merokok"
-        ]
+        "jawaban": ["cuci kaki", "cuci tangan", "cuci muka", "gosok gigi", "minum susu", "menguap", "berdoa", "cium anjing", "membaca", "merokok"]
     },
+    {
         "soal": "Macam Tiang",
-        "jawaban": [
-            "listrik",
-            "jemuran",
-            "bendera",
-            "lampu",
-            "telepon"
-        ]
+        "jawaban": ["listrik", "jemuran", "bendera", "lampu", "telepon"]
     },
     {
         "soal": "Apa Yang Biasanya Dilakukan Ibu Dan Putrinya Bersama-Sama",
-        "jawaban": [
-            "tamasya",
-            "nonton tv",
-            "belanja",
-            "ngobrol"
-        ]
+        "jawaban": ["tamasya", "nonton tv", "belanja", "ngobrol"]
+    },
+    {
+        "soal": "Nama-nama benda di dalam dapur",
+        "jawaban": ["Sendok", "Garpu", "Panci", "Wajan", "Sapu", "Piring", "Gelas", "Pisau"]
+    },
+    {
+        "soal": "Nama-nama alat tulis",
+        "jawaban": ["Pensil", "Pulpen", "Penghapus", "Spidol", "Penggaris", "Stabilo", "Highlighter"]
+    },
+    {
+        "soal": "Nama-nama jenis kendaraan bermotor",
+        "jawaban": ["Motor", "Mobil", "Sepeda Motor", "Truk", "Bus", "Kereta Api", "Pesawat"]
+    },
+    {
+        "soal": "Nama-nama hari libur nasional di Indonesia",
+        "jawaban": ["Hari Raya Idul Fitri", "Hari Kemerdekaan", "Natal", "Tahun Baru", "Hari Raya Nyepi", "Hari Raya Waisak", "Hari Raya Imlek"]
     }
 ]
