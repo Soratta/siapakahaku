@@ -1,58 +1,294 @@
 [
     {
-        "soal": "Hotel Bintang 5 Jakarta",
-        "jawaban": [
-            "sheraton",
-            "the westin",
-            "kempinski",
-            "the langham",
-            "borobudur",
-            "hilton"
-        ]
+        "soal": "Sebutkan 5 nama negara di benua Amerika.",
+        "jawaban": ["Amerika Serikat", "Kanada", "Brasil", "Argentina", "Meksiko"]
     },
     {
-        "soal": "Perlengkapan Sekolah Anak Tk",
-        "jawaban": [
-            "pensil",
-            "botol minum",
-            "pensil warna",
-            "sapu tangan",
-            "hapusan",
-            "buku"
-        ]
+        "soal": "Apa saja 8 nama alat musik tiup?",
+        "jawaban": ["Suling", "Trompet", "Tuba", "Saksofon", "Klarinet", "Oboe", "Flute", "Horn"]
     },
     {
-        "soal": "Disaat Apa Saja Orang Membawa Kamera",
-        "jawaban": [
-            "ulang tahun",
-            "pesta",
-            "pernikahan",
-            "piknik",
-            "wisuda",
-            "reuni",
-            "arisan",
-            "gathering"
-        ]
+        "soal": "Sebutkan 6 nama bunga yang sering dijadikan rangkaian bunga.",
+        "jawaban": ["Mawar", "Melati", "Anggrek", "Lily", "Tulip", "Krisan"]
     },
     {
-        "soal": "Warna Cat Rambut",
-        "jawaban": [
-            "merah",
-            "kuning",
-            "coklat",
-            "hijau",
-            "ungu",
-            "emas",
-            "perak"
-        ]
+        "soal": "Apa saja 7 nama hewan herbivora?",
+        "jawaban": ["Kuda", "Gajah", "Sapi", "Zebra", "Kanguru", "Jerapah", "Rusa"]
     },
     {
-        "soal": "Artis Yang Rambutnya Kribo",
-        "jawaban": [
-            "edi brokoli",
-            "ahmad albar",
-            "giring",
-            "marcell"
-        ]
+        "soal": "Sebutkan 10 nama mata uang asing.",
+        "jawaban": ["Dolar Amerika Serikat", "Euro", "Yen Jepang", "Pound sterling Inggris", "Dolar Australia", "Dolar Kanada", "Franc Swiss", "Dolar Singapura", "Dolar Hong Kong", "Peso Meksiko"]
+    },
+    {
+        "soal": "Apa saja 5 nama tokoh dalam cerita dongeng Aladdin?",
+        "jawaban": ["Aladdin", "Jasmine", "Genie", "Jafar", "Abu"]
+    },
+    {
+        "soal": "Sebutkan 8 jenis olahraga air.",
+        "jawaban": ["Selancar", "Renang", "Dayung", "Selam", "Jetski", "Perahu layar", "Perahu karet", "Selancar angin"]
+    },
+    {
+        "soal": "Apa saja 6 nama benua di dunia?",
+        "jawaban": ["Asia", "Afrika", "Eropa", "Amerika", "Australia", "Antartika"]
+    },
+    {
+        "soal": "Sebutkan 7 jenis makanan yang umumnya dihidangkan saat acara pesta ulang tahun.",
+        "jawaban": ["Kue ulang tahun", "Pizza", "Es krim", "Popcorn", "Permen", "Burger", "Cupcake"]
+    },
+    {
+        "soal": "Apa saja 9 nama hewan karnivora?",
+        "jawaban": ["Singa", "Serigala", "Harimau", "Macan", "Beruang", "Hyena", "Kucing", "Anjing", "Ikan hiu"]
+    },
+    {
+        "soal": "Sebutkan 5 nama jenis anjing.",
+        "jawaban": ["Labrador Retriever", "Bulldog", "Golden Retriever", "Beagle", "Poodle"]
+    },
+    {
+        "soal": "Apa saja 8 jenis warna dasar dalam model pewarnaan CMYK?",
+        "jawaban": ["Cyan", "Magenta", "Kuning", "Hitam", "Merah", "Biru", "Kuning", "Hijau"]
+    },
+    {
+        "soal": "Sebutkan 6 nama bintang dalam waralaba film Star Wars.",
+        "jawaban": ["Luke Skywalker", "Princess Leia", "Han Solo", "Darth Vader", "Yoda", "Obi-Wan Kenobi"]
+    },
+    {
+        "soal": "Apa saja 7 nama buah yang memiliki banyak biji?",
+        "jawaban": ["Semangka", "Delima", "Pepaya", "Markisa", "Jambu biji", "Jeruk", "Nanas"]
+    },
+    {
+        "soal": "Sebutkan 8 nama jenis mobil yang sering digunakan untuk balapan.",
+        "jawaban": ["Ferrari", "Lamborghini", "McLaren", "Porsche", "Mercedes-Benz", "BMW", "Audi", "Nissan GT-R"]
+    },
+    {
+        "soal": "Apa saja 5 nama alat musik dawai?",
+        "jawaban": ["Gitar", "Biola", "Cello", "Bass", "Harpa"]
+    },
+    {
+        "soal": "Sebutkan 10 nama presiden Amerika Serikat.",
+        "jawaban": ["George Washington", "Abraham Lincoln", "Barack Obama", "Donald Trump", "Joe Biden", "Thomas Jefferson", "Theodore Roosevelt", "John F. Kennedy", "Ronald Reagan", "Bill Clinton"]
+    },
+    {
+        "soal": "Apa saja 6 nama alat musik perkusi?",
+        "jawaban": ["Drum", "Gendang", "Gong", "Xylophone", "Marakas", "Triangle"]
+    },
+    {
+        "soal": "Sebutkan 8 nama jenis burung.",
+        "jawaban": ["Burung camar", "Elang", "Kakatua", "Penguin", "Merpati", "Kenari", "Kolibri", "Burung hantu"]
+    },
+    {
+        "soal": "Apa saja 7 jenis bunga yang sering dijadikan buket?",
+        "jawaban": ["Mawar", "Melati", "Lily", "Tulip", "Anggrek", "Krisan", "Daisy"]
+    },
+    {
+        "soal": "Sebutkan 5 jenis makanan cepat saji yang populer di seluruh dunia.",
+        "jawaban": ["Burger", "Pizza", "Kentang goreng", "Nugget", "Hot dog"]
+    },
+    {
+        "soal": "Apa saja 9 nama planet dalam tata surya kita?",
+        "jawaban": ["Merkurius", "Venus", "Bumi", "Mars", "Jupiter", "Saturnus", "Uranus", "Neptunus", "Pluto"]
+    },
+    {
+        "soal": "Sebutkan 6 nama jenis kucing.",
+        "jawaban": ["Persia", "Siam", "Maine Coon", "Bengal", "Scottish Fold", "Russian Blue"]
+    },
+    {
+        "soal": "Apa saja 8 nama alat transportasi darat?",
+        "jawaban": ["Mobil", "Motor", "Sepeda", "Bus", "Kereta api", "Truk", "Mobil balap", "Sepeda motor"]
+    },
+    {
+        "soal": "Sebutkan 5 nama tokoh dalam film Harry Potter.",
+        "jawaban": ["Harry Potter", "Hermione Granger", "Ron Weasley", "Albus Dumbledore", "Severus Snape"]
+    },
+    {
+        "soal": "Apa saja 7 nama jenis ikan hias?",
+        "jawaban": ["Ikan Guppy", "Ikan Koi", "Ikan Cupang", "Ikan Discus", "Ikan Molly", "Ikan Neon Tetra", "Ikan Arwana"]
+    },
+    {
+        "soal": "Sebutkan 10 nama makanan khas Indonesia.",
+        "jawaban": ["Nasi Goreng", "Sate", "Rendang", "Gado-gado", "Soto", "Pecel", "Nasi Padang", "Bakso", "Nasi Uduk", "Pempek"]
+    },
+    {
+        "soal": "Apa saja 5 nama jenis mobil sedan?",
+        "jawaban": ["Toyota Camry", "Honda Civic", "Nissan Altima", "Hyundai Sonata", "Ford Fusion"]
+    },
+    {
+        "soal": "Sebutkan 8 nama jenis olahraga bola.",
+        "jawaban": ["Sepak bola", "Bola basket", "Bulu tangkis", "Baseball", "Softball", "Rugby", "Futsal", "Voli"]
+    },
+    {
+        "soal": "Apa saja 6 nama rasi bintang?",
+        "jawaban": ["Aries", "Taurus", "Gemini", "Cancer", "Leo", "Virgo"]
+    },
+    {
+        "soal": "Sebutkan 7 nama jenis alat musik gesek.",
+        "jawaban": ["Biola", "Viola", "Cello", "Kontrabas", "Erhu", "Rebab", "Violin"]
+    },
+    {
+        "soal": "Apa saja 8 nama jenis kamera fotografi?",
+        "jawaban": ["DSLR", "Mirrorless", "Compact", "Action cam", "Instant camera", "Medium format", "Bridge camera", "Polaroid"]
+    },
+    {
+        "soal": "Sebutkan 5 nama jenis alat musik tiup.",
+        "jawaban": ["Flute", "Trompet", "Saksofon", "Trombon", "Oboe"]
+    },
+    {
+        "soal": "Apa saja 7 nama negara di benua Asia?",
+        "jawaban": ["China", "India", "Indonesia", "Jepang", "Korea Selatan", "Malaysia", "Thailand"]
+    },
+    {
+        "soal": "Sebutkan 10 nama jenis hewan yang hidup di air.",
+        "jawaban": ["Ikan", "Lumba-lumba", "Kura-kura air", "Hiu", "Kepiting", "Kepiting", "Lobster", "Ikan paus", "Udang", "Kodok"]
+    },
+    {
+        "soal": "Apa saja 5 nama alat musik dawai?",
+        "jawaban": ["Gitar", "Bass", "Biola", "Cello", "Ukulele"]
+    },
+    {
+        "soal": "Sebutkan 8 nama jenis makanan ringan.",
+        "jawaban": ["Keripik", "Kacang", "Cokelat", "Biskuit", "Permen", "Marshmallow", "Popcorn", "Donat"]
+    },
+    {
+        "soal": "Apa saja 6 nama benua di dunia?",
+        "jawaban": ["Asia", "Afrika", "Eropa", "Amerika", "Australia", "Antartika"]
+    },
+    {
+        "soal": "Sebutkan 7 nama jenis burung yang umumnya ditemukan di Indonesia.",
+        "jawaban": ["Burung jalak", "Burung gereja", "Burung cenderawasih", "Burung pipit", "Burung perkutut", "Burung nuri", "Burung garuda"]
+    },
+    {
+        "soal": "Apa saja 8 nama mata uang negara Eropa?",
+        "jawaban": ["Euro", "Poundsterling", "Franc", "Korona", "Marka", "Lira", "Rubel", "Forint"]
+    },
+    {
+        "soal": "Sebutkan 5 nama jenis mobil hatchback.",
+        "jawaban": ["Honda Civic", "Toyota Yaris", "Volkswagen Golf", "Ford Fiesta", "Mazda3"]
+    },
+    {
+        "soal": "Apa saja 6 nama jenis tanaman hias indoor?",
+        "jawaban": ["Monstera", "Sansevieria", "Palem", "Kaktus", "Pothos", "Calathea"]
+    },
+    {
+        "soal": "Sebutkan 10 nama hewan laut.",
+        "jawaban": ["Ikan hiu", "Lumba-lumba", "Ikan paus", "Penyu", "Kepiting", "Lobster", "Ikan kerapu", "Ikan tuna", "Ikan pari", "Udang"]
+    },
+    {
+        "soal": "Apa saja 7 nama jenis mobil SUV?",
+        "jawaban": ["Toyota Fortuner", "Honda CR-V", "Nissan X-Trail", "Mitsubishi Pajero Sport", "Ford Everest", "Hyundai Santa Fe", "Kia Sorento"]
+    },
+    {
+        "soal": "Sebutkan 6 nama jenis bunga mawar.",
+        "jawaban": ["Mawar merah", "Mawar putih", "Mawar pink", "Mawar biru", "Mawar ungu", "Mawar kuning"]
+    },
+    {
+        "soal": "Apa saja 8 nama negara di benua Afrika?",
+        "jawaban": ["Nigeria", "Afrika Selatan", "Mesir", "Ethiopia", "Kenya", "Aljazair", "Sudan", "Kongo"]
+    },
+    {
+        "soal": "Sebutkan 7 nama jenis makanan berkuah.",
+        "jawaban": ["Soto", "Bakso", "Sup", "Rawon", "Sop", "Sayur asem", "Gulai"]
+    },
+    {
+        "soal": "Apa saja 9 nama alat transportasi laut?",
+        "jawaban": ["Kapal", "Perahu", "Kano", "Kapal pesiar", "Kapal layar", "Kapal selam", "Ferry", "Sampan", "Speedboat"]
+    },
+    {
+        "soal": "Sebutkan 5 nama jenis mobil sedan.",
+        "jawaban": ["Toyota Camry", "Honda Accord", "Nissan Altima", "Ford Fusion", "Hyundai Sonata"]
+    },
+    {
+        "soal": "Apa saja 8 nama mata uang di Asia Tenggara?",
+        "jawaban": ["Rupiah", "Ringgit", "Baht", "Peso", "Dolar Brunei", "Peso Filipina", "Dolar Singapura", "Dolar Taiwan"]
+    },
+    {
+        "soal": "Sebutkan 6 nama jenis ikan hias air tawar.",
+        "jawaban": ["Ikan Guppy", "Ikan Discus", "Ikan Koi", "Ikan Arwana", "Ikan Louhan", "Ikan Cupang"]
+    },
+    {
+        "soal": "Apa saja 7 nama negara di benua Eropa?",
+        "jawaban": ["Inggris", "Perancis", "Jerman", "Italia", "Spanyol", "Belanda", "Rusia"]
+    },
+    {
+        "soal": "Sebutkan 5 nama jenis bunga anggrek.",
+        "jawaban": ["Anggrek bulan", "Anggrek hitam", "Anggrek merah", "Anggrek putih", "Anggrek biru"]
+    },
+    {
+        "soal": "Apa saja 8 nama alat musik tiup?",
+        "jawaban": ["Suling", "Trompet", "Saksofon", "Flute", "Klarinet", "Oboe", "Trombon", "Harmonika"]
+    },
+    {
+        "soal": "Sebutkan 7 nama mata uang di Amerika Latin.",
+        "jawaban": ["Peso Meksiko", "Peso Kolombia", "Real Brasil", "Dolar Amerika Serikat", "Sol Peru", "Peso Argentina", "Peso Chili"]
+    },
+    {
+        "soal": "Apa saja 5 nama negara di Benua Australia?",
+        "jawaban": ["Australia", "Selandia Baru", "Papua Nugini", "Fiji", "Samoa"]
+    },
+    {
+        "soal": "Sebutkan 8 nama bintang dalam konstelasi rasi bintang Orion.",
+        "jawaban": ["Betelgeuse", "Rigel", "Alnilam", "Mintaka", "Saiph", "Bellatrix", "Alnitak", "Meissa"]
+    },
+    {
+        "soal": "Apa saja 9 nama jenis mobil sport?",
+        "jawaban": ["Ferrari", "Lamborghini", "Bugatti", "Porsche", "McLaren", "Aston Martin", "Maserati", "Lotus", "Koenigsegg"]
+    },
+    {
+        "soal": "Sebutkan 6 nama jenis bunga tulip.",
+        "jawaban": ["Tulip merah", "Tulip putih", "Tulip kuning", "Tulip pink", "Tulip ungu", "Tulip biru"]
+    },
+    {
+        "soal": "Apa saja 7 nama jenis mobil mewah?",
+        "jawaban": ["Rolls-Royce", "Bentley", "Maybach", "Mercedes-Benz S-Class", "BMW 7 Series", "Audi A8", "Lexus LS"]
+    },
+    {
+        "soal": "Sebutkan 8 nama jenis sayuran.",
+        "jawaban": ["Wortel", "Brokoli", "Bayam", "Kubis", "Tomat", "Terong", "Labu", "Jamur"]
+    },
+    {
+        "soal": "Apa saja 5 nama tokoh dalam film Avengers?",
+        "jawaban": ["Iron Man", "Captain America", "Thor", "Hulk", "Black Widow"]
+    },
+    {
+        "soal": "Sebutkan 9 nama jenis buah tropis.",
+        "jawaban": ["Pisang", "Mangga", "Nanas", "Papaya", "Durian", "Rambutan", "Salak", "Manggis", "Kelapa"]
+    },
+    {
+        "soal": "Apa saja 6 nama mata uang di Asia Timur?",
+        "jawaban": ["Yen Jepang", "Won Korea Selatan", "Dolar Hong Kong", "Dolar Singapura", "Yuan Tiongkok", "Dolar Taiwan"]
+    },
+    {
+        "soal": "Sebutkan 7 nama jenis ikan air tawar.",
+        "jawaban": ["Lele", "Gurami", "Mas", "Bawal", "Nila", "Belida", "Louhan"]
+    },
+    {
+        "soal": "Apa saja 8 nama jenis bunga mawar?",
+        "jawaban": ["Mawar merah", "Mawar putih", "Mawar pink", "Mawar kuning", "Mawar biru", "Mawar ungu", "Mawar peach", "Mawar lavender"]
+    },
+    {
+        "soal": "Sebutkan 5 nama jenis mobil van.",
+        "jawaban": ["Toyota Sienna", "Honda Odyssey", "Chrysler Pacifica", "Kia Carnival", "Volkswagen Caravelle"]
+    },
+    {
+        "soal": "Apa saja 6 nama mata uang di Timur Tengah?",
+        "jawaban": ["Rial Iran", "Rial Saudi Arabia", "Dinar Irak", "Dinar Kuwait", "Dirham Uni Emirat Arab", "Pound Lebanon"]
+    },
+    {
+        "soal": "Sebutkan 7 nama jenis buah-buahan.",
+        "jawaban": ["Apel", "Pisang", "Jeruk", "Anggur", "Nanas", "Strawberry", "Semangka"]
+    },
+    {
+        "soal": "Apa saja 8 nama jenis makanan ringan?",
+        "jawaban": ["Keripik", "Permen", "Cokelat", "Donat", "Kue", "Kue kering", "Popcorn", "Biskuit"]
+    },
+    {
+        "soal": "Sebutkan 6 nama mata uang di Asia Tenggara.",
+        "jawaban": ["Rupiah", "Ringgit", "Baht", "Peso", "Dolar Brunei", "Dolar Singapura"]
+    },
+    {
+        "soal": "Apa saja 9 nama jenis mobil sedan?",
+        "jawaban": ["Toyota Camry", "Honda Civic", "Nissan Altima", "Hyundai Sonata", "Ford Fusion", "Volkswagen Jetta", "Mazda3", "Chevrolet Malibu", "Kia Optima"]
+    },
+    {
+        "soal": "Sebutkan 7 nama jenis buah yang sering dijadikan jus.",
+        "jawaban": ["Jeruk", "Apel", "Strawberry", "Mangga", "Nanas", "Anggur", "Melon"]
     }
 ]
