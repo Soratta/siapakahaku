@@ -424,7 +424,7 @@
         "jawaban": ["View Sonic", "Koorui", "Xiaomi", "HP", "gigabyte"]
     },
     {
-        "soal": "Cara masuk universitas negeri",
+        "soal": "Apa saja jalur masuk universitas negeri",
         "jawaban": ["Jalur Undangan", "Jalur SNBP", "Jalur SNBT", "Jalur Mandiri"]
     },
     {
@@ -437,7 +437,7 @@
     },
     {
         "soal": "Character yang paling banyak di sukai di game Blue Archive",
-        "jawaban": ["Hina","Hina","Hina"]
+        "jawaban": ["Hina"]
     },
     {
         "soal": "Cara menjadi hacker di indonesia",
@@ -526,5 +526,100 @@
     {
         "soal": "Nama-nama hari libur nasional di Indonesia",
         "jawaban": ["Hari Raya Idul Fitri", "Hari Kemerdekaan", "Natal", "Tahun Baru", "Hari Raya Nyepi", "Hari Raya Waisak", "Hari Raya Imlek"]
-    }
+    },
+    {
+        "soal": "Game hoyoverse terkenal",
+        "jawaban": ["Genshun impact", "Honkai Star Rail", "Honkai Impact"]
+    },
+    {
+        "soal": "Apa yang paling dibenci player emel saat bermain gamenya",
+        "jawaban": ["Saber roam", "player feed", "Hyper ga bisa main"]
+    },
+    {
+        "soal": "Merek console",
+        "jawaban": ["Playstation", "Nintendo", "Xbox", "Steamdeck", "Rog Ally"]
+    },
+    {
+        "soal": "Bahasa pemrograman yang terkenal",
+        "jawaban": ["Javascript", "Python", "PHP", "Golang", "Ruby", "C++", "C#"]
+    },
+    {
+        "soal": "Software 3D",
+        "jawaban": ["Blender", "Unity", "Auto Cad", "Unreal Engine"]
+    },
+    {
+        "soal": "Nama-nama jenis software Microsoft",
+        "jawaban": ["Excel", "Word", "Power Point", "Outlook", "Onedrive", "One note"]
+    },
+    {
+        "soal": "orang jelek",
+        "jawaban": ["gw", "elu", "tai lu"]
+    },
+    {
+        "soal": "Lagu Coldplay",
+        "jawaban": ["Yellow", "The scientist", "viva la vida", "paradise", "my universe", "fix you", "something just like this"]
+    },
+    {
+        "soal": "lagu pace kobo kanaeru",
+        "jawaban": ["Oh Asmara", "Mantra Hujan", "Entah...", "Sebatas Video Call"]
+    },
+    {
+        "soal": "Lagu Bruno Mars",
+        "jawaban": ["The lazy song", "that was i like", "just the way you are", "it will rain", "uptown funk", "when i was your man", "talking to the moon"]
+    },
+    {
+        "soal": "Lagu NewJeans",
+        "jawaban": ["Super Shy", "OMG", "GODS", "Hype Boy", "Ditto"]
+    },
+    {
+        "soal": "apasih gajelas bgt",
+        "jawaban": ["yaudah iya", "yaudah sih", "lu gajelas", "jnck", "bct lu"]
+    },
+    {
+        "soal": "Member JKT-48 Gen 7",
+        "jawaban": ["Freya", "Angelina", "Asadel", "Febriola", "Putri", "Jessica", "Mutiara"]
+    },
+    {
+        "soal": "Member Hololive ID Gen-3",
+        "jawaban": ["Kobo Kanaeru", "Vestia Zeta", "Kaela Kovalskia"]
+    },
+    {
+        "soal": "Member Hololive ID Gen-2",
+        "jawaban": ["Pavolia Reine", "Kureiji Ollie", "Anya Melfissa"]
+    },
+    {
+        "soal": "Member Hololive ID Gen-1",
+        "jawaban": ["Moona Hoshinova", "Airani Iofiteen", "Ayunda Risu"]
+    },
+    {
+        "soal": "Lagu yoasobi",
+        "jawaban": ["Gunjou", "Yoru ni kakeru", "Idol"]
+    },
+    {
+        "soal": "Apa yang dilakukan saat tidak ada guru",
+        "jawaban": ["main hp", "ribut di kelas", "ngobrol sama teman"]
+    },
+    {
+        "soal": "Operating sistem terkenal",
+        "jawaban": ["Windows", "Mac os", "IOS", "Android", "Linux"]
+    },
+    {
+        "soal": "Mengapa orang membeli hp baru",
+        "jawaban": ["rusak", "jadul", "memory penuh", "lemot", "gengsi"]
+    },
+    {
+        "soal": "Hewan yang ada di rumah",
+        "jawaban": [ "kucing",
+            "anjing",
+            "cicak",
+            "tikus",
+            "lalat",
+            "nyamuk",
+            "kecoa",
+            "semut"]
+    },
+    {
+        "soal": "Bioskop yang ada di Kota bekasi",
+        "jawaban": ["KCM", "CGV GGP", "REVO TOWN XXI", "MEGA BEKASI XXI", "CGV BTC MALL"]
+    },
 ]
