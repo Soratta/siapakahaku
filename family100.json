@@ -609,14 +609,7 @@
     },
     {
         "soal": "Hewan yang ada di rumah",
-        "jawaban": [ "kucing",
-            "anjing",
-            "cicak",
-            "tikus",
-            "lalat",
-            "nyamuk",
-            "kecoa",
-            "semut"]
+        "jawaban": [ "kucing","anjing","cicak","tikus","lalat","nyamuk","kecoa","semut"]
     },
     {
         "soal": "Bioskop yang ada di Kota bekasi",
